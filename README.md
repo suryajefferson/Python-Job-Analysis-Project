@@ -33,3 +33,22 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - **Jupyter Notebooks**:i used this to run my Python scripts and keep track of my notes and analysis in one place.
 - **Visual Studio Code**: this was my main editor for running my python scripts.
 - **Git & GitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
+## Analysis
+## 1
+## 2
+Monthly Job Posting Trends: Global vs. India
+
+analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
+
+### Approach
+**data preparation**
+- extract month from date column
+- count no of job postings per month globally
+- count no of job postings per month in india
+
+**plotting**
+- set up for plot
+- plot line graphs
+- modify axes and labels
+- modify the entire figure
+- display the plot
