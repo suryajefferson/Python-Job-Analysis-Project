@@ -1,1 +1,2 @@
-hello
+## Overview
+This project examines job positions and skill demands in the data industries, focusing on several key factors such as monthly trends, skill requirements, and salary distributions. The data ......... includes detailed information about job titles, salaries, locations, and important skills which forms the basis of my analysis. The project compares job postings globally and in India, dives into skill demands for various data roles, and investigates income distributions and skill value across countries.
