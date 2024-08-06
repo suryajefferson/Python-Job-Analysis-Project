@@ -372,7 +372,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![6.png](images/6.png)
+![6.png](Images/6.png)
 *Comparing Salary Distributions for Top Data Jobs in the US and India*
 ### Insight
 - **senior data scientists** top the salary charts in both india and the usa. they earn a high median yearly salary of around $175k in the usa and $150k in india. their maximum salaries are also impressive, with the highest in the usa reaching up to $200k, and their salaries are generally close to this maximum.
