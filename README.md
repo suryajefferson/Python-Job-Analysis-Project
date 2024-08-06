@@ -23,10 +23,13 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - **git & gitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
 # Analysis
 ## 1
+### Exploratory Data Analysis
+- need to fill the data here 
 ## 2
 ### Are monthly job posting trends different globally compared to India?
 
 - analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
+
 [**Click Here for Line to Line Approach**](/Project/2%20Monthly%20Job%20Posting%20Trends%20Global%20vs.%20India.ipynb)
 ### Methodology
 <details>
@@ -98,6 +101,7 @@ plt.show()
 ## 3
 ### what are the skills that are frequently requested for top data jobs in india ? 
 - analyzing skill demand across different job titles in Indian job postings. It aims to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
+
 [**Click Here for Line to Line Approach**](/Project/3%20Understanding%20Skill%20Demand%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
 <details>
@@ -175,6 +179,7 @@ plt.show()
 ## 4 
 ### What are the skill trends throughout the year for top data jobs in India?
 - analyzes and visualizes the monthly trends of skill mentions for the top three job titles in India. It tracks how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
+
 [**Click Here for Line to Line Approach**](/Project/4%20Skill%20Trends%20Throughout%20the%20Year%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
 <details>
@@ -268,6 +273,7 @@ plt.show()
 ## 5 
 ### How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?    
 - comparing the top skills for Data Analysts in the United States and India, focusing on both the highest-paid skills and the most in-demand skills. It aims to visualize the median salaries and demand for these skills in both countries through bar plots.
+
 [**Click Here for Line to Line Approach**](/Project/5%20High-Paying%20vs.%20In-Demand%20Skills%20for%20Data%20Analysts%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
 
@@ -341,6 +347,7 @@ plt.show()
 ## 6 
 ### How do salaries vary for differnt data job roles in India and in the US ?  
 - compares salary distributions for the top 6 job titles in the United States and India. It visualizes the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
+
 [**Click Here for Line to Line Approach**](/Project/6%20Comparing%20Salary%20Distributions%20for%20Top%20Data%20Jobs%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
 
