@@ -93,7 +93,7 @@ plt.show()
 
 ```
 ### Result
-![2.png](attachment:2.png)
+![2.png](Images/2.png)
 *Monthly Job Posting Trends: Global vs. India*
 ### Insight
 - the trend between global job postings and india job postings follows a similar pattern, with job postings being very high at the start of the year and lowest in **may**.
@@ -163,7 +163,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![3.png](attachment:3.png)
+![3.png](Images/3.png)
 *Understanding Skill Demand for Top Data Jobs in India*
 ### Insight
 - *sql* and *python* are the most important skills for data jobs, coming in the top 2 in every chart.
@@ -249,7 +249,7 @@ plt.show()
 
 ```
 ### Result
-![4.png](attachment:4.png)
+![4.png](Images/4.png)
 *Skill Trends Throughout the Year for Top Data Jobs in India*
 ### Insight
 - *sql* and *python* are the most consistent skills throughout the year.
@@ -315,7 +315,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![5.png](attachment:5.png)
+![5.png](Images/5.png)
 *High-Paying vs. In-Demand Skills for Data Analysts in the US and India*
 ### Insight
 - top paying skills in the us include niche technologies like *dplyr* and *gitlab*, while in india, high salaries go to more common skills like *postgresql* and *pyspark*.
@@ -454,7 +454,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![7.png](D:\Github\Python Job Analysis Project\Images\7.png)
+![7.png](Images\7.png)
 *Skill Value Analysis for Leading Data Roles in India*
 
 ### Insight
