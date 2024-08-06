@@ -454,7 +454,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![7.png](attachment:7.png)
+![7.png](D:\Github\Python Job Analysis Project\Images\7.png)
 *Skill Value Analysis for Leading Data Roles in India*
 
 ### Insight
