@@ -24,7 +24,17 @@ For my deep dive into the data analyst job market, I used a few key tools:
 # Analysis
 ## 1
 ### Exploratory Data Analysis
-- need to fill the data here 
+Exploratory Data Analysis (EDA) is a crucial first step in data analysis that involves examining and understanding the data before applying more complex analytical techniques. Here’s a simple breakdown of EDA in this project: 
+- analyzing the number of jobs per country
+- finding the number of jobs per job title
+- investigating the number of jobs per company
+- analyzing job benefits through pie charts
+- finding the top 3 data jobs in india
+- investigating the top 3 data jobs per location in india
+- analyzing the top 3 data jobs per company in india
+
+[**Click Here for Line to Line Approach**](/Project/1%20Exploratory%20Data%20Analysis.ipynb)
+
 ## 2
 ### Are monthly job posting trends different globally compared to India?
 
