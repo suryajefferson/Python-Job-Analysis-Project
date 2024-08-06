@@ -35,9 +35,7 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - **Git & GitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
 # Analysis
 ## 1
-## 2
-### Question
-Are monthly job posting trends different globally compared to India?
+## 2 Are monthly job posting trends different globally compared to India?
 
 - analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
 ### Approach
