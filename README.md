@@ -28,6 +28,11 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
 [**Click Here for Line to Line Approach**](/Project/2%20Monthly%20Job%20Posting%20Trends%20Global%20vs.%20India.ipynb)
 ### Methodology
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 - extract month from date column
 - count no of job postings per month globally
@@ -39,6 +44,7 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
 
 ### Code Excerpt
 ```python
@@ -92,6 +98,11 @@ plt.show()
 - analyzing skill demand across different job titles in Indian job postings. It aims to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
 [**Click Here for Line to Line Approach**](/Project/3%20Understanding%20Skill%20Demand%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 
 - filter indian job data
@@ -108,6 +119,8 @@ plt.show()
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
+
 ### Code Excerpt
 ```python
 import matplotlib.colors as mcolors
@@ -161,6 +174,11 @@ plt.show()
 - analyzes and visualizes the monthly trends of skill mentions for the top three job titles in India. It tracks how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
 [**Click Here for Line to Line Approach**](/Project/4%20Skill%20Trends%20Throughout%20the%20Year%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 
 - filter for indian jobs
@@ -179,6 +197,8 @@ plt.show()
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
+
 ### Code Excerpt
 ```python
 from adjustText import adjust_text
@@ -246,6 +266,12 @@ plt.show()
 - comparing the top skills for Data Analysts in the United States and India, focusing on both the highest-paid skills and the most in-demand skills. It aims to visualize the median salaries and demand for these skills in both countries through bar plots.
 [**Click Here for Line to Line Approach**](/Project/5%20High-Paying%20vs.%20In-Demand%20Skills%20for%20Data%20Analysts%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
+
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 
 - filter for data analyst
@@ -262,6 +288,7 @@ plt.show()
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
 
 ### Code Excerpt
 ```python
@@ -311,6 +338,12 @@ plt.show()
 - compares salary distributions for the top 6 job titles in the United States and India. It visualizes the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
 [**Click Here for Line to Line Approach**](/Project/6%20Comparing%20Salary%20Distributions%20for%20Top%20Data%20Jobs%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
+
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 
 - filter for indian jobs
@@ -325,6 +358,8 @@ plt.show()
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
+
 ### Code Excerpt
 ```python
 salaries = [df_us_top6_jobs,df_ind_top6_jobs]
@@ -368,6 +403,11 @@ plt.show()
 
 [**Click Here for Line to Line Approach**](/Project/7%20Skill%20Value%20Analysis%20for%20Leading%20Data%20Roles%20in%20India.ipynb)
 ### Methodology
+<details>
+<summary>
+click to toggle contents of "Methodology"
+</summary>
+
 **data preparation**
 
 - filter for indian jobs
@@ -383,6 +423,7 @@ plt.show()
 - modify axes and labels
 - modify the entire figure
 - display the plot
+</details>
 
 ### Code Excerpt
 ```python
