@@ -23,7 +23,8 @@ For my deep dive into the data analyst job market, I used a few key tools:
 - **git & gitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
 # Analysis
 ## 1
-### 2 Are monthly job posting trends different globally compared to India?
+## 2
+### Are monthly job posting trends different globally compared to India?
 
 - analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
 [**Click Here for Line to Line Approach**](/Project/2%20Monthly%20Job%20Posting%20Trends%20Global%20vs.%20India.ipynb)
@@ -94,7 +95,8 @@ plt.show()
     - globally, the 2nd highest peak for job postings is in **august**, whereas in india it occurs in **november**, almost reaching the 1st peak.
 - in **summer**, job postings are higher globally, while india’s postings remain stable.
 - global job postings show more pronounced fluctuations compared to india’s more stable trends.
-### 3 what are the skills that are frequently requested for top data jobs in india ? 
+## 3
+### what are the skills that are frequently requested for top data jobs in india ? 
 - analyzing skill demand across different job titles in Indian job postings. It aims to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
 [**Click Here for Line to Line Approach**](/Project/3%20Understanding%20Skill%20Demand%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
@@ -170,7 +172,8 @@ plt.show()
 - **data analysts** tend to mix *sql* with *excel* and visualization tools in their work. **data engineers** concentrate on *sql*, *python*, and cloud technologies like *aws* and *azure*. **data scientists** prioritize *python* and *sql*, with a strong emphasis on statistical tools like *r*.
 - each role has some unique skills: **data analysts** are notable for *excel* and *tableau*, **data engineers** stand out with their use of *spark*, *aws*, and *azure*, and **data scientists** are distinguished by their use of *r*, along with *aws* and *tableau*.
 
-### 4 What are the skill trends throughout the year for top data jobs in India?
+## 4 
+### What are the skill trends throughout the year for top data jobs in India?
 - analyzes and visualizes the monthly trends of skill mentions for the top three job titles in India. It tracks how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
 [**Click Here for Line to Line Approach**](/Project/4%20Skill%20Trends%20Throughout%20the%20Year%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
@@ -262,7 +265,8 @@ plt.show()
 - *excel* and *tableau* for **data analysts**, *azure* and *spark* for **data engineers**, and *tableau* and *aws* for **data scientists** vary a lot, especially from **may** to **august**.
 - monthly trends show **data analysts**' skill percentages changing, with peaks in *sql* and *python* around **may** and **june**. **data engineers** maintain high use of *sql* and *python* throughout the year, with peaks in **january** and **december**. **data scientists** see *python* peak in **june**, while *sql* and *r* fluctuate, reaching their highest in **march** and **may**.
 - there isn’t a clear seasonal pattern for **data analysts**, but skill percentages vary. **data engineers** use *sql* and *python* consistently all year, with some variation in other skills. **data scientists** show more pronounced peaks and troughs in *python* and *sql* trends, especially in mid year months.
-### 5 How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?    
+## 5 
+### How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?    
 - comparing the top skills for Data Analysts in the United States and India, focusing on both the highest-paid skills and the most in-demand skills. It aims to visualize the median salaries and demand for these skills in both countries through bar plots.
 [**Click Here for Line to Line Approach**](/Project/5%20High-Paying%20vs.%20In-Demand%20Skills%20for%20Data%20Analysts%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
@@ -334,7 +338,8 @@ plt.show()
 - salaries in the us vary widely for top skills, with specialized skills paying more, while india’s top salaries are more stable.
 - skill focus in the us is on traditional tools and business analytics, while india emphasizes modern tech like cloud services and big data tools.
 - in summary, the us values specialized skills with high pay, while india focuses on popular tools with steady salaries.
-### 6 How do salaries vary for differnt data job roles in India and in the US ?  
+## 6 
+### How do salaries vary for differnt data job roles in India and in the US ?  
 - compares salary distributions for the top 6 job titles in the United States and India. It visualizes the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
 [**Click Here for Line to Line Approach**](/Project/6%20Comparing%20Salary%20Distributions%20for%20Top%20Data%20Jobs%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
@@ -398,7 +403,8 @@ plt.show()
 - **data analysts** and **senior data analysts** have lower median salaries compared to other roles, with around $100k for data analysts and slightly above $100k for senior data analysts in both india and the usa.
 - **data engineers** and **data scientists** earn more than senior data analysts in both india and the usa. in india, data engineers, in particular, earn more than senior data analysts and even some senior data engineers.
 - in the usa, there are some extreme salaries for data scientists where earnings exceed $900k, and in india, there are extreme salaries for data analysts where earnings exceed $600k.
-### 7 What are the best skills to learn for data jobs in India that are both in high demand and well-paying?
+## 7 
+### What are the best skills to learn for data jobs in India that are both in high demand and well-paying?
 - analyzes and visualizes the relationship between skill appearance frequency and median salary for the top four job titles in India. It aims to identify and display which skills are most beneficial to learn for these job roles based on their appearance frequency and associated median salary.
 
 [**Click Here for Line to Line Approach**](/Project/7%20Skill%20Value%20Analysis%20for%20Leading%20Data%20Roles%20in%20India.ipynb)
