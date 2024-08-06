@@ -100,7 +100,7 @@ plt.show()
 - global job postings show more pronounced fluctuations compared to india’s more stable trends.
 ## 3
 ### what are the skills that are frequently requested for top data jobs in india ? 
-- analyzing skill demand across different job titles in Indian job postings. It aims to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
+- analyzing skill demand across different job titles in Indian job postings. aiming to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
 
 [**Click Here for Line to Line Approach**](/Project/3%20Understanding%20Skill%20Demand%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
@@ -178,7 +178,7 @@ plt.show()
 
 ## 4 
 ### What are the skill trends throughout the year for top data jobs in India?
-- analyzes and visualizes the monthly trends of skill mentions for the top three job titles in India. It tracks how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
+- analyzing and visualizing  the monthly trends of skill mentions for the top three job titles in India. tracking how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
 
 [**Click Here for Line to Line Approach**](/Project/4%20Skill%20Trends%20Throughout%20the%20Year%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
 ### Methodology
@@ -272,7 +272,7 @@ plt.show()
 - there isn’t a clear seasonal pattern for **data analysts**, but skill percentages vary. **data engineers** use *sql* and *python* consistently all year, with some variation in other skills. **data scientists** show more pronounced peaks and troughs in *python* and *sql* trends, especially in mid year months.
 ## 5 
 ### How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?    
-- comparing the top skills for Data Analysts in the United States and India, focusing on both the highest-paid skills and the most in-demand skills. It aims to visualize the median salaries and demand for these skills in both countries through bar plots.
+- comparing the top skills for data analysts in the united states and India, focusing on both the highest paid skills and the most in-demand skills. aiming to visualize the median salaries and demand for these skills in both countries through bar plots.
 
 [**Click Here for Line to Line Approach**](/Project/5%20High-Paying%20vs.%20In-Demand%20Skills%20for%20Data%20Analysts%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
@@ -346,7 +346,7 @@ plt.show()
 - in summary, the us values specialized skills with high pay, while india focuses on popular tools with steady salaries.
 ## 6 
 ### How do salaries vary for differnt data job roles in India and in the US ?  
-- compares salary distributions for the top 6 job titles in the United States and India. It visualizes the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
+- comparing salary distributions for the top 6 job titles in the united states and India. visualizing the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
 
 [**Click Here for Line to Line Approach**](/Project/6%20Comparing%20Salary%20Distributions%20for%20Top%20Data%20Jobs%20in%20the%20US%20and%20India.ipynb)
 ### Methodology
@@ -412,7 +412,7 @@ plt.show()
 - in the usa, there are some extreme salaries for data scientists where earnings exceed $900k, and in india, there are extreme salaries for data analysts where earnings exceed $600k.
 ## 7 
 ### What are the best skills to learn for data jobs in India that are both in high demand and well-paying?
-- analyzes and visualizes the relationship between skill appearance frequency and median salary for the top four job titles in India. It aims to identify and display which skills are most beneficial to learn for these job roles based on their appearance frequency and associated median salary.
+- analyzing and visualizing the relationship between skill appearance frequency and median salary for the top four job titles in India. aiming to identify and display which skills are most beneficial to learn for these job roles based on their appearance frequency and associated median salary.
 
 [**Click Here for Line to Line Approach**](/Project/7%20Skill%20Value%20Analysis%20for%20Leading%20Data%20Roles%20in%20India.ipynb)
 ### Methodology
