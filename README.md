@@ -1,44 +1,32 @@
 # Overview
 This project examines job positions and skill demands in the data industries, focusing on several key factors such as monthly trends, skill requirements, and salary distributions. The data ......... includes detailed information about job titles, salaries, locations, and important skills which forms the basis of my analysis. The project compares job postings globally and in India, dives into skill demands for various data roles, and investigates income distributions and skill value across countries.
 # The Questions
-here is the list of the questions that are going to be answered in this project
+Here is the list of the questions that are going to be answered in this project
 
 1. Exploratory Data Analysis
-
 2. Are monthly job posting trends different globally compared to India?
-    - Monthly Job Posting Trends: Global vs. India
-
 3. what are the skills that are frequently requested for top data jobs in india ? 
-    - Understanding Skill Demand for Top Data Jobs in India
-
 4. What are the skill trends throughout the year for top data jobs in India?
-    - Skill Trends Throughout the Year for Top Data Jobs in India
-
-5.  How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?
-    - High-Paying vs. In-Demand Skills for Data Analysts in the US and India
-
+5.  How do salaries vary for the highest paid skills and the most in-demand skills for data analysts in India?
 6. How do salaries vary for differnt data job roles in India and in the US ?
-    - Comparing Salary Distributions for Top Data Jobs in the US and India
-
 7. What are the best skills to learn for data jobs in India that are both in high demand and well-paying?
-    - Skill Value Analysis for Leading Data Roles in India
 
 # Tools I Used
 For my deep dive into the data analyst job market, I used a few key tools:
 
-- **Python**: this was the main tool for analyzing the data and finding important insights. I also used some python libraries:
-  - **Pandas**: to handle and analyze the data.
-  - **Matplotlib**: to create basic graphs and charts.
-  - **Seaborn**: to make more advanced and detailed visuals.
-- **Jupyter Notebooks**:i used this to run my Python scripts and keep track of my notes and analysis in one place.
-- **Visual Studio Code**: this was my main editor for running my python scripts.
-- **Git & GitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
+- **python**: this was the main tool for analyzing the data and finding important insights. I also used some python libraries:
+  - **pandas**: to handle and analyze the data.
+  - **matplotlib**: to create basic graphs and charts.
+  - **seaborn**: to make more advanced and detailed visuals.
+- **jupyter notebooks**:i used this to run my Python scripts and keep track of my notes and analysis in one place.
+- **visual studio code**: this was my main editor for running my python scripts.
+- **git & gitHub**: i used these for managing changes to my code and sharing my work, which helped with collaboration and tracking progress.
 # Analysis
 ## 1
 ### 2 Are monthly job posting trends different globally compared to India?
 
 - analyzing and visualizing job postings data to compare the trends of job postings over the months for a global dataset and for India specifically. The goal is to understand how the job postings fluctuate throughout the year on a global scale versus in India.
-[**Click Here for Line to Line Approach**](2 Monthly Job Posting Trends Global vs. India.ipynb)
+[**Click Here for Line to Line Approach**](/Project/2%20Monthly%20Job%20Posting%20Trends%20Global%20vs.%20India.ipynb)
 ### Methodology
 **data preparation**
 - extract month from date column
@@ -102,7 +90,8 @@ plt.show()
 - global job postings show more pronounced fluctuations compared to india’s more stable trends.
 ### 3 what are the skills that are frequently requested for top data jobs in india ? 
 - analyzing skill demand across different job titles in Indian job postings. It aims to identify and visualize the top skills requested for the top job titles, showing the percentage of job postings that mention each skill.
-### Approach
+[**Click Here for Line to Line Approach**](/Project/3%20Understanding%20Skill%20Demand%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
+### Methodology
 **data preparation**
 
 - filter indian job data
@@ -170,7 +159,8 @@ plt.show()
 
 ### 4 What are the skill trends throughout the year for top data jobs in India?
 - analyzes and visualizes the monthly trends of skill mentions for the top three job titles in India. It tracks how the demand for various skills changes over the months for these job titles, plotting skill appearance rates across the year.
-### Approach
+[**Click Here for Line to Line Approach**](/Project/4%20Skill%20Trends%20Throughout%20the%20Year%20for%20Top%20Data%20Jobs%20in%20India.ipynb)
+### Methodology
 **data preparation**
 
 - filter for indian jobs
@@ -254,7 +244,8 @@ plt.show()
 - there isn’t a clear seasonal pattern for **data analysts**, but skill percentages vary. **data engineers** use *sql* and *python* consistently all year, with some variation in other skills. **data scientists** show more pronounced peaks and troughs in *python* and *sql* trends, especially in mid year months.
 ### 5 How do salaries vary for the highest-paid skills and the most in-demand skills for data analysts in India?    
 - comparing the top skills for Data Analysts in the United States and India, focusing on both the highest-paid skills and the most in-demand skills. It aims to visualize the median salaries and demand for these skills in both countries through bar plots.
-### Approach
+[**Click Here for Line to Line Approach**](/Project/5%20High-Paying%20vs.%20In-Demand%20Skills%20for%20Data%20Analysts%20in%20the%20US%20and%20India.ipynb)
+### Methodology
 **data preparation**
 
 - filter for data analyst
@@ -318,7 +309,8 @@ plt.show()
 - in summary, the us values specialized skills with high pay, while india focuses on popular tools with steady salaries.
 ### 6 How do salaries vary for differnt data job roles in India and in the US ?  
 - compares salary distributions for the top 6 job titles in the United States and India. It visualizes the yearly salary distribution for these top job roles in each country using box plots, allowing for a comparison of salary ranges and medians across different job titles.
-### Approach
+[**Click Here for Line to Line Approach**](/Project/6%20Comparing%20Salary%20Distributions%20for%20Top%20Data%20Jobs%20in%20the%20US%20and%20India.ipynb)
+### Methodology
 **data preparation**
 
 - filter for indian jobs
@@ -374,7 +366,8 @@ plt.show()
 ### 7 What are the best skills to learn for data jobs in India that are both in high demand and well-paying?
 - analyzes and visualizes the relationship between skill appearance frequency and median salary for the top four job titles in India. It aims to identify and display which skills are most beneficial to learn for these job roles based on their appearance frequency and associated median salary.
 
-### Approach
+[**Click Here for Line to Line Approach**](/Project/7%20Skill%20Value%20Analysis%20for%20Leading%20Data%20Roles%20in%20India.ipynb)
+### Methodology
 **data preparation**
 
 - filter for indian jobs
@@ -452,6 +445,28 @@ plt.show()
 - **senior data scientists** have median salaries of $153,576.5 for *python* and $152,500 for *sql*, using a balanced mix of programming, analytical tools, and cloud technologies like *aws* (27.3%).
 - **data engineers** focus mainly on programming and libraries, with some emphasis on cloud technologies like *aws* and *azure*.
 - **data analysts** primarily use programming and analytical tools, with some experience in cloud technologies like *azure*.
+
+# Overall Insights
+- **job posting trends**: both global and indian job postings are highest at the start of the year and lowest in may. global postings have another peak in august, while india’s second peak is in november. global trends are more up and down; india’s are steadier.
+
+- **important skills**: sql and python are key for all data jobs. data analysts use sql and excel, data engineers focus on python and cloud tools, and data scientists use a mix of python, sql, and r.
+
+- **skill changes**: sql and python are important all year. other skills change more, with data analysts and data scientists having noticeable peaks in certain months.
+
+- **seasonal patterns**: no clear patterns for data analysts; data engineers have more stable trends.
+
+- **pay differences**: the us pays more for specialized skills, while india’s salaries are steadier for common skills. the us pays high for niche skills, but india’s top salaries are more stable.
+
+- **salaries**: senior data scientists have the highest pay in both countries. data analysts and senior data analysts earn less. both countries have high salaries and some extreme pay, especially in the us. data engineers and data scientists earn well with skills in sql, python, and spark, while data analysts earn more with skills like excel and sql. senior roles use a mix of programming, analytical tools, and cloud skills.
+# Challanges I Faced
+this project came with some difficulties, but they were good learning experiences:
+
+- **data inconsistencies:** i had to fix missing or incorrect data to make sure the analysis was accurate.
+- **complex data visualization:** it was challenging to create clear charts and graphs from complicated data, but it was important for making the information easy to understand.
+- **balancing breadth and depth:** i needed to explore the data thoroughly while also keeping a big-picture view, which was tricky to manage.
+
+# Conclusion
+The project provides substantial insights on job posting trends and skill demands in the data industry. it offers an in-depth analysis of the data job market by comparing global and Indian trends, identifying necessary skills for top professions, and analyzing salary distributions. according to the data, while some trends and skills are comparable around the world, regional differences and specialized function needs result in distinct patterns in demand and compensation. this analysis can help professionals plan their careers and corporations develop hiring strategies.
 
 <span style="color:#d7ba7d; font-size:50px;"> End </span>
 
