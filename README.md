@@ -250,6 +250,7 @@ plt.show()
 ```
 ### Result
 ![4.png](Images/4.png)
+
 *Skill Trends Throughout the Year for Top Data Jobs in India*
 ### Insight
 - *sql* and *python* are the most consistent skills throughout the year.
@@ -454,7 +455,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Result
-![7.png](Images\7.png)
+![7.png](Images/7.png)
 *Skill Value Analysis for Leading Data Roles in India*
 
 ### Insight
